@@ -1,3 +1,5 @@
+! Functionalitatea serverului este limitata !
+
 Serverul contine :
 - structura Subscriber care este folosita pentru a retine la ce topicuri se aboneaza un subscriber.
 
